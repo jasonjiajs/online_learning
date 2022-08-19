@@ -1,5 +1,5 @@
 # Online Learning
-A list of completed courses and programs
+A compilation of completed courses and programs
 
 | **Category** | **Name** | **Source** | **Length** |
 |-|-|-|-|
